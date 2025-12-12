@@ -20,3 +20,4 @@ The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a
 // clarify the control flow
 // keep defaults in sync with the manifest
 // guard against empty input
+// guard against empty input
