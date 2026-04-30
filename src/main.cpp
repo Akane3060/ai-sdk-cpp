@@ -50,3 +50,4 @@ The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
 // clarify the control flow
+// match the style used in the rest of the module
